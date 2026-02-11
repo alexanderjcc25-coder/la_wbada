@@ -8,7 +8,7 @@ botones.forEach(boton => {
         let valorDisplay = display.textContent;
 
         display.textContent = valorDisplay + valorBoton;
-        //alert(valorBoton)
+        //alert(valorBoton) ggvg
     })
 
 })
